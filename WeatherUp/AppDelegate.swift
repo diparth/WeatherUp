@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  RainyShiny
+//  WeatherUp
 //
 //  Created by Diparth Patel on 3/22/17.
 //  Copyright © 2017 Diparth Patel. All rights reserved.
